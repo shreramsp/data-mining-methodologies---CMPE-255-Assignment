@@ -7,6 +7,16 @@
 
 ---
 
+### 🤖 AI Assistance Disclosure
+
+This project used **ChatGPT (GPT-5 Thinking)** to help structure and critique each stage of the three methodologies (**CRISP-DM**, **KDD**, **SEMMA**).  
+ChatGPT acted as a “domain expert reviewer,” suggesting refinements to phase plans, code modularity, and evaluation clarity.  
+All generated code and analyses were **verified, executed, and finalized manually** by **Shreram Palanisamy** before inclusion.  
+Curated chat transcripts are stored in the [`ai_reviews/`](./ai_reviews) directory for reference.
+
+---
+
+
 ## 📚 Methods Covered
 
 - **CRISP-DM:** Business Understanding → Data Understanding → Data Preparation → Modeling → Evaluation → Deployment  
