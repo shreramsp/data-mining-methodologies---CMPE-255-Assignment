@@ -48,6 +48,14 @@ Each notebook is self-contained and designed to run in **Google Colab**.
 
 ---
 
+## 🎥 YouTube Walkthroughs
+
+- **CRISP-DM:** <https://youtu.be/ARmOUjRLCxA>
+- **KDD:** <https://youtu.be/tWn9nqTSAmo>
+- **SEMMA:** <https://youtu.be/Jl6lLHbh7rc>
+
+--
+
 ## ✍️ Medium Articles
 
 - **CRISP-DM:** <https://medium.com/@shrerampalanisamy/from-chat-to-classification-predicting-adult-income-with-chatgpt-crisp-dm-cost-aware-ml-d4fa733b63c9>  
